@@ -4,7 +4,7 @@ celery==4.4.2
 celery-progress==0.0.9
 coreapi==2.3.3
 dj-stripe==2.3.0
-django==3.0.5
+django==3.0.7
 django-allauth==0.41.0
 django-anymail==7.0.0
 django-celery-beat==2.0.0
